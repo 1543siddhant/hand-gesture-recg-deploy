@@ -1,4 +1,4 @@
-opencv-python
-mediapipe
-numpy
-tflite-runtime
+opencv-python==4.11.0.86
+mediapipe==0.10.9
+numpy==1.24.4
+tflite-runtime==2.13.0
